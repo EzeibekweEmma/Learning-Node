@@ -1,0 +1,14 @@
+{
+  "name": "1-project",
+  "version": "1.0.0",
+  "description": "learning node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emmanuel",
+  "license": "ISC",
+  "devDependencies": {
+    "yargs": "^4.7.1"
+  }
+}
