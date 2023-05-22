@@ -38,7 +38,7 @@ Node.js has gained significant popularity in recent years due to its unique feat
 
 ---
 
-### Projects Bulit:
+### Projects Bulid:
 
 0. **[Note App:](./0-noteApp/)**
    _This is a simple note-taking application built with Node.js. It allows users to create, read, update, and delete notes through a command-line interface._
