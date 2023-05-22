@@ -79,13 +79,13 @@
 7. To delete a note, use the following command:
 
    ```sh
-   node app.js rm --title="Note Title"
+   node app.js r --title="Note Title"
    ```
 
    or
 
    ```sh
-   node app.js rm -t="Note Title"
+   node app.js r -t="Note Title"
    ```
 
 ---
