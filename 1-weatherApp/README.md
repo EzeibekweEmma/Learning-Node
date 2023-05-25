@@ -33,7 +33,7 @@ Before using the Weather App CLI, you need to obtain an API key from Visual Cros
 
 - Visit the [Visual Crossing website](https://www.visualcrossing.com/weather-data-editions).
 - Sign up for a free account or log in to your existing account.
-- Navigate to the "My Weather Data" section and copy your API key.
+- Navigate to the "Account" section and copy your API key.
 
 Once you have obtained the API key, open the [geocode.js](./geocode.js) file and replace the placeholder API key with your actual API key:
 
