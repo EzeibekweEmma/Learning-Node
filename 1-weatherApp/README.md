@@ -2,7 +2,7 @@
 
 **This is a simple Weather application built with Node.js, It provides weather information for a given address location. It utilizes the [Visual Crossing Web Services API](https://www.visualcrossing.com) to fetch weather data based on user input, through a command-line interface.**
 
-![weather](./weather.png)
+![Weather](./Weather.png)
 
 ---
 
