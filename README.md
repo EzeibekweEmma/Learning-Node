@@ -44,11 +44,18 @@ Node.js has gained significant popularity in recent years due to its unique feat
    _This is a simple note-taking application built with Node.js. It allows users to create, read, update, and delete notes through a command-line interface._
 
 1. **[Weather App:](./1-weatherApp/)**
+   _This is a simple Weather application built with Node.js, It provides weather information for a given address location. It utilizes the Visual Crossing Web Services API to fetch weather data based on user input, through a command-line interface._
 
 ---
 
-### Contributing
+### Contributing:
 
 If you have any suggestions, corrections, or improvements for this repository, please feel free to contribute. Fork the repository, make your changes, and submit a pull request. Your contributions are greatly appreciated! :)
 
 **Note:** For Contribution please specify the specific project you contributed to.
+
+---
+
+### Contact:
+
+If you have any questions or issues regarding any project, please feel free to contact me at [Twitter](https://twitter.com/ezeibekweemma) | [LinkedIn](https://linkedin.com/in/ezeibekweemma).

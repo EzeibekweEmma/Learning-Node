@@ -1,4 +1,4 @@
-# Node.js Note App
+# Note App
 
 **This is a simple note-taking application built with Node.js. It allows users to create, read, update, and delete notes through a command-line interface.**
 
@@ -6,7 +6,7 @@
 
 ---
 
-## Features
+### Features:
 
 - Create a new note with a title and body.
 - View a list of all existing notes.
@@ -16,7 +16,7 @@
 
 ---
 
-## Installation
+### Installation:
 
 1. Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 2. Clone this repository or download the source code.
@@ -27,7 +27,7 @@
    npm install
    ```
 
-## Usage
+### Usage:
 
 1. Open your terminal or command prompt and navigate to the project directory.
 2. Run this command for help:
@@ -90,6 +90,12 @@
 
 ---
 
-## Contributing
+### Contributing:
 
 If you have any suggestions, improvements, or bug fixes, please submit a pull request. Ensure that your code follows the existing code style and includes appropriate comments. Your contributions are greatly appreciated!
+
+---
+
+### Contact:
+
+If you have any questions or issues regarding this project, please feel free to contact me at [Twitter](https://twitter.com/ezeibekweemma) | [LinkedIn](https://linkedin.com/in/ezeibekweemma).
